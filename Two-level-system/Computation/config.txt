@@ -1,0 +1,6 @@
+c0_1: 1
+c0_2: 0
+Omega_R: 0.5
+gamma: 0.01
+dt: 0.001
+maxTime: 100
